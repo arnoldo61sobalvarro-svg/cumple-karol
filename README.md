@@ -39,14 +39,14 @@ border-radius:15px;
 
 <body>
 
-<h1>🎉 Feliz Cumpleaños Mi Amor 🎉</h1>
+<h1>🎉 Feliz Cumpleaños Mi pequeña preciosa 🎉</h1>
 <p>Hoy celebro la suerte de tenerte ❤️</p>
 
 <button onclick="mostrar()">💖 Toca aquí 💖</button>
 
 <div id="sorpresa">
 
-<h2>Te amo muchísimo</h2>
+<h2>Quiero que sepas que ha pesar de todo lo que ha pasado te amo muchísimo</h2>
 
 <img src="foto1.jpg">
 <img src="foto2.jpg">
